@@ -111,6 +111,12 @@ Inline `code` has `back-ticks around` it.
 
 ## Videos
 
+### For YouTube:
+
+{% youtube "https://www.youtube.com/watch?v=AMVnjkEgnyM" %}
+
+### For Vimeo:
+
 <iframe src="https://player.vimeo.com/video/153339497?byline=0" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 [Terraforming](https://vimeo.com/153339497) from [Studio Swine](https://vimeo.com/studioswine) on [Vimeo](https://vimeo.com)
