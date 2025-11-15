@@ -1,0 +1,40 @@
+{
+  "links": [
+    {
+      "type": "youtube",
+      "title": "YouTube",
+      "icon": "fa-youtube",
+      "url": "https://youtube.com/@thelivetraveling"
+    },
+    {
+      "type": "instagram",
+      "title": "Instagram",
+      "icon": "fa-instagram",
+      "url": "https://instagram.com/thelivetraveling"
+    },
+    {
+      "type": "twitter",
+      "title": "Twitter",
+      "icon": "fa-twitter",
+      "url": "https://twitter.com/thelivetraveling"
+    },
+    {
+      "type": "github",
+      "title": "GitHub",
+      "icon": "fa-github",
+      "url": "https://github.com/thelivetraveling"
+    },
+    {
+      "type": "linkedin",
+      "title": "LinkedIn",
+      "icon": "fa-linkedin",
+      "url": "https://linkedin.com/in/the-live-traveling/"
+    },
+        {
+      "type": "tiktok",
+      "title": "TikTok",
+      "icon": "fa-tiktok",
+      "url": "https://tiktok.com/@thelivetraveling"
+    }
+  ]
+}
