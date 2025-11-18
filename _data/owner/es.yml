@@ -2,13 +2,13 @@
 # Owner's Personal Information
 ###########################################################
 # This is your brand name
-brand: "Tu marca"
+brand: "La Vida Viajando"
 
 # text below the brand name
 brand_sub_text: "$site_sample"
 
 # used for seo meta post author (if it's not defined in post)
-name: "Su nombre"
+name: "La Vida Viajando"
 
 # home page top header texts
 home:
@@ -23,7 +23,7 @@ about:
 
 # if you don't want to add copyright year, comment or leave it blank.
 # the year during which the claimed copyright for the work was first asserted.
-copyright_start_year: "2022"
+copyright_start_year: "2025"
 
 # make sure creative_commons.enable is true in _data/conf/main.yml file
 creative_commons:
@@ -37,7 +37,7 @@ creative_commons:
   # 4. by-nc     Attribution-NonCommercial 4.0 International
   # 5. by-nc-nd  Attribution-NonCommercial-NoDerivatives 4.0 International
   # 6. by-nc-sa  Attribution-NonCommercial-ShareAlike 4.0 International
-  license_type: "by-sa"
+  license_type: "by-nc"
 
 # seo meta this is needed for each language
 # If meta_description is not defined in front matter, it's created from (post / page) content,
@@ -48,14 +48,15 @@ meta_common_description: "Tu meta descripción."
 # the order of the items will be shown as here.
 # comment to remove any contact item
 contacts:
-  #- github: ""
-  #- email: ""
-  #- linkedin: ""
-  #- twitter: ""
-  #- mastodon: ""
-  #- instagram: ""
-  #- youtube: ""
-  #- facebook: ""
+  - github: "thelivetraveling"
+  - email: "the.live.traveling@gmail.com"
+  # - linkedin: "thelivetraveling"
+  - twitter: "thelivetravelin"
+  # - mastodon: ""
+  - instagram: "thelivetraveling"
+  - youtube: "UCHasrL1slXcdTTKHrRTcl1g"
+  # - facebook: ""
+  - tiktok: "@thelivetraveling"
 # to add more, check the _data/const/contact.yml file
 #  - your_new_contact: ""
 
