@@ -204,6 +204,12 @@
     }
   }
 
+  .social__links {
+    span.label {
+      padding-inline-start: 5px;
+    }
+  }
+
   @include breakpoint($large) {
     display: block;
   }

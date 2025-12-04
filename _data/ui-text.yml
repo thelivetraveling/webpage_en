@@ -19,6 +19,7 @@ en: &DEFAULT_EN
   less_than                  : "less than"
   minute_read                : "minute read"
   share_on_label             : "Share on"
+  share_message              : "Take a look this on The Live Traveling"
   meta_label                 :
   tags_label                 : "Tags:"
   categories_label           : "Categories:"
@@ -31,6 +32,8 @@ en: &DEFAULT_EN
   feed_label                 : "Feed"
   powered_by                 : "Powered by"
   website_label              : "Website"
+  website_home_title         : "Sharing my days"
+  website_home_subtitle      : "Videos, photos, tips, maps, itineraries, tricks y more... you will find all you need for your next trip."
   email_label                : "Email"
   recent_posts               : "Recent posts"
   undefined_wpm              : "Undefined parameter words_per_minute at _config.yml"
@@ -78,6 +81,7 @@ es: &DEFAULT_ES
   less_than                  : "menos de"
   minute_read                : "minuto(s) de lectura"
   share_on_label             : "Compartir en"
+  share_message              : "Mira lo que he visto en The Live Traveling"
   meta_label                 :
   tags_label                 : "Etiquetas:"
   categories_label           : "Categorías:"
@@ -90,6 +94,8 @@ es: &DEFAULT_ES
   feed_label                 : "Feed"
   powered_by                 : "Funciona con"
   website_label              : "Sitio web"
+  website_home_title         : "Contando mi historia"
+  website_home_subtitle      : "Videos, fotos, consejos, mapas, itinerarios, trucos y mas... podrás encontrar de todo para organizar tu próximo viaje"
   email_label                : "Correo electrónico"
   recent_posts               : "Entradas recientes"
   undefined_wpm              : "El parámetro words_per_minute (palabras por minuto) no está definido en _config.yml"
@@ -133,6 +139,7 @@ fr: &DEFAULT_FR
   less_than                  : "moins de"
   minute_read                : "minute(s) de lecture"
   share_on_label             : "Partager sur"
+  share_message              : "Regarde ce que j'ai vu à The Live Traveling"
   meta_label                 :
   tags_label                 : "Tags :"
   categories_label           : "Catégories :"
@@ -145,6 +152,8 @@ fr: &DEFAULT_FR
   feed_label                 : "Flux"
   powered_by                 : "Propulsé par"
   website_label              : "Site"
+  website_home_title         : ""
+  website_home_subtitle      : ""
   email_label                : "Email"
   recent_posts               : "Posts récents"
   undefined_wpm              : "Le paramètre words_per_minute n'est pas défini dans _config.yml"
@@ -190,6 +199,7 @@ tr: &DEFAULT_TR
   less_than                  : "Şu süreden az: "
   minute_read                : "dakika tahmini okuma süresi"
   share_on_label             : "Paylaş"
+  share_message              : "The Live Traveling'de gördüklerime bakın"
   meta_label                 :
   tags_label                 : "Etiketler:"
   categories_label           : "Kategoriler:"
@@ -202,6 +212,8 @@ tr: &DEFAULT_TR
   feed_label                 : "RSS"
   powered_by                 : "Emeği geçenler: "
   website_label              : "Web sayfası"
+  website_home_title         : ""
+  website_home_subtitle      : ""
   email_label                : "E-posta"
   recent_posts               : "Son yazılar"
   undefined_wpm              : "_config.yml dosyasında tanımlanmamış words_per_minute parametresi"
@@ -240,6 +252,7 @@ pt: &DEFAULT_PT
   less_than                  : "menos de"
   minute_read                : "minutos de leitura"
   share_on_label             : "Partilhar no"
+  share_message              : "Veja o que eu vi no The Live Traveling"
   meta_label                 :
   tags_label                 : "Etiquetas:"
   categories_label           : "Categorias:"
@@ -252,6 +265,8 @@ pt: &DEFAULT_PT
   feed_label                 : "Feed"
   powered_by                 : "Feito com"
   website_label              : "Site"
+  website_home_title         : ""
+  website_home_subtitle      : ""
   email_label                : "Email"
   recent_posts               : "Artigos Recentes"
   undefined_wpm              : "Parâmetro words_per_minute não definido em _config.yml"
@@ -288,6 +303,7 @@ pt-BR:
   less_than                  : "menos de"
   minute_read                : "minuto(s) de leitura"
   share_on_label             : "Compartilhe"
+  share_message              : "Veja o que eu vi em The Live Traveling"
   meta_label                 :
   tags_label                 : "Tags:"
   categories_label           : "Categorias:"
@@ -300,6 +316,8 @@ pt-BR:
   feed_label                 : "Feed"
   powered_by                 : "Desenvolvido com"
   website_label              : "Site"
+  website_home_title         : ""
+  website_home_subtitle      : ""
   email_label                : "E-mail"
   recent_posts               : "Publicações recentes"
   undefined_wpm              : "Parâmetro words_per_minute não definido em _config.yml"
@@ -339,6 +357,7 @@ it: &DEFAULT_IT
   less_than                  : "meno di"
   minute_read                : "minuto/i di lettura"
   share_on_label             : "Condividi"
+  share_message              : "Guarda cosa ho visto su The Live Traveling"
   meta_label                 :
   tags_label                 : "Tags:"
   categories_label           : "Categorie:"
@@ -351,6 +370,8 @@ it: &DEFAULT_IT
   feed_label                 : "Feed"
   powered_by                 : "Powered by"
   website_label              : "Website"
+  website_home_title         : ""
+  website_home_subtitle      : ""
   email_label                : "Email"
   recent_posts               : "Articoli Recenti"
   undefined_wpm              : "Parametro words_per_minute non definito in _config.yml"
@@ -392,6 +413,7 @@ zh: &DEFAULT_ZH_HANS
   less_than                  : "少于"
   minute_read                : "分钟阅读"
   share_on_label             : "分享"
+  share_message              : "看看我在The Live Traveling上发现了什么"
   meta_label                 :
   tags_label                 : "标签:"
   categories_label           : "分类:"
@@ -404,6 +426,8 @@ zh: &DEFAULT_ZH_HANS
   feed_label                 : "Feed"
   powered_by                 : "技术来自于"
   website_label              : "网站"
+  website_home_title         : ""
+  website_home_subtitle      : ""
   email_label                : "电子邮箱"
   recent_posts               : "最新文章"
   undefined_wpm              : "_config.yml 配置中 words_per_minute 字段未定义"
@@ -445,6 +469,7 @@ zh-TW: &DEFAULT_ZH_HANT
   less_than                  : "少於"
   minute_read                : "分鐘閱讀"
   share_on_label             : "分享到"
+  share_message              : "快來看看我在The Live Traveling發現了什麼"
   meta_label                 :
   tags_label                 : "標籤:"
   categories_label           : "分類:"
@@ -457,6 +482,8 @@ zh-TW: &DEFAULT_ZH_HANT
   feed_label                 : "RSS Feed"
   powered_by                 : "Powered by"
   website_label              : "網站"
+  website_home_title         : ""
+  website_home_subtitle      : ""
   email_label                : "電子信箱"
   recent_posts               : "最新文章"
   undefined_wpm              : "_config.yml 中未定義 words_per_minute"
@@ -498,6 +525,7 @@ de: &DEFAULT_DE
   less_than                  : "weniger als"
   minute_read                : "Minuten zum Lesen"
   share_on_label             : "Teilen auf"
+  share_message              : "Schau mal, was ich bei The Live Traveling gesehen habe"
   meta_label                 :
   tags_label                 : "Tags:"
   categories_label           : "Kategorien:"
@@ -510,6 +538,8 @@ de: &DEFAULT_DE
   feed_label                 : "Feed"
   powered_by                 : "Möglich durch"
   website_label              : "Webseite"
+  website_home_title         : ""
+  website_home_subtitle      : ""
   email_label                : "E-Mail"
   recent_posts               : "Aktuelle Beiträge"
   undefined_wpm              : "Undefinierter Parameter words_per_minute in _config.yml"
@@ -560,6 +590,7 @@ ne: &DEFAULT_NE
   less_than                  : "कम्तिमा"
   minute_read                : "मिनेट पढ्नुहोस्"
   share_on_label             : "शेयर गर्नुहोस्"
+  share_message              : "हेर्नुहोस् मैले The Live Traveling मा के देखेँ।"
   meta_label                 :
   tags_label                 : "ट्यागहरू:"
   categories_label           : "वर्गहरु:"
@@ -572,6 +603,8 @@ ne: &DEFAULT_NE
   feed_label                 : "फिड"
   powered_by                 : "Powered by"
   website_label              : "वेबसाइट"
+  website_home_title         : ""
+  website_home_subtitle      : ""
   email_label                : "इमेल"
   recent_posts               : "ताजा लेखहरु"
   undefined_wpm              : "अपरिभाषित प्यारामिटर शब्दहरू_प्रति_मिनेट at _config.yml"
@@ -610,6 +643,7 @@ ko: &DEFAULT_KO
   less_than                  : "최대"
   minute_read                : "분 소요"
   share_on_label             : "공유하기"
+  share_message              : "라이브 트래블링에서 내가 본 걸 봐"
   meta_label                 :
   tags_label                 : "태그:"
   categories_label           : "카테고리:"
@@ -622,6 +656,8 @@ ko: &DEFAULT_KO
   feed_label                 : "피드"
   powered_by                 : "Powered by"
   website_label              : "웹사이트"
+  website_home_title         : ""
+  website_home_subtitle      : ""
   email_label                : "이메일"
   recent_posts               : "최근 포스트"
   undefined_wpm              : "Undefined parameter words_per_minute at _config.yml"
@@ -663,6 +699,7 @@ ru: &DEFAULT_RU
   less_than                  : "менее"
   minute_read                : "мин на чтение"
   share_on_label             : "Поделиться"
+  share_message              : "Посмотри, что я увидел на The Live Traveling"
   meta_label                 :
   tags_label                 : "Метки:"
   categories_label           : "Разделы:"
@@ -675,6 +712,8 @@ ru: &DEFAULT_RU
   feed_label                 : "RSS-лента"
   powered_by                 : "Сайт работает на"
   website_label              : "Сайт"
+  website_home_title         : ""
+  website_home_subtitle      : ""
   email_label                : "Электронная почта"
   recent_posts               : "Свежие записи"
   undefined_wpm              : "Не определён параметр words_per_minute в _config.yml"
@@ -715,6 +754,7 @@ lt: &DEFAULT_LT
   less_than                  : "mažiau nei"
   minute_read                : "min. skaitymo"
   share_on_label             : "Pasidalinti"
+  share_message              : "Pažiūrėk, ką aš pamačiau „The Live Traveling“"
   meta_label                 :
   tags_label                 : "Žymės:"
   categories_label           : "Kategorijos:"
@@ -727,6 +767,8 @@ lt: &DEFAULT_LT
   feed_label                 : "Šaltinis"
   powered_by                 : "Sukurta su"
   website_label              : "Tinklapis"
+  website_home_title         : ""
+  website_home_subtitle      : ""
   email_label                : "El. paštas"
   recent_posts               : "Naujausi įrašai"
   undefined_wpm              : "Nedeklaruotas parametras words_per_minute faile _config.yml"
@@ -765,6 +807,7 @@ gr: &DEFAULT_GR
   less_than                  : "Λιγότερο από"
   minute_read                : "λεπτά ανάγνωσης"
   share_on_label             : "Μοιραστείτε το"
+  share_message              : "Κοίτα τι είδα στο The Live Traveling"
   meta_label                 :
   tags_label                 : "Ετικέτες:"
   categories_label           : "Κατηγορίες:"
@@ -777,6 +820,8 @@ gr: &DEFAULT_GR
   feed_label                 : "RSS Feed"
   powered_by                 : "Δημιουργήθηκε με"
   website_label              : "Ιστοσελίδα"
+  website_home_title         : ""
+  website_home_subtitle      : ""
   email_label                : "Email"
   recent_posts               : "Τελευταίες αναρτήσεις"
   undefined_wpm              : "Δεν έχει οριστεί η παράμετρος words_per_minute στο αρχείο _config.yml"
@@ -817,6 +862,7 @@ sv: &DEFAULT_SV
   less_than                  : "mindre än"
   minute_read                : "minut läsning"
   share_on_label             : "Dela på"
+  share_message              : "Pozrite sa, čo som videl v The Live Traveling"
   meta_label                 :
   tags_label                 : "Taggar:"
   categories_label           : "Kategorier:"
@@ -829,6 +875,8 @@ sv: &DEFAULT_SV
   feed_label                 : "Flöde"
   powered_by                 : "Framställd med"
   website_label              : "Webbsida"
+  website_home_title         : ""
+  website_home_subtitle      : ""
   email_label                : "E-post"
   recent_posts               : "Senaste inlägg"
   undefined_wpm              : "Odefinerade parametrar words_per_minute i _config.yml"
@@ -872,6 +920,7 @@ nl: &DEFAULT_NL
   less_than                  : "minder dan"
   minute_read                : "minuut gelezen"
   share_on_label             : "Deel op"
+  share_message              : ""
   meta_label                 :
   tags_label                 : "Labels:"
   categories_label           : "Categorieën:"
@@ -884,6 +933,8 @@ nl: &DEFAULT_NL
   feed_label                 : "Feed"
   powered_by                 : "Aangedreven door"
   website_label              : "Website"
+  website_home_title         : ""
+  website_home_subtitle      : ""
   email_label                : "Email"
   recent_posts               : "Recente berichten"
   undefined_wpm              : "Niet gedefinieerde parameter words_per_minute bij _config.yml"
@@ -927,6 +978,7 @@ id: &DEFAULT_ID
   less_than                  : "Kurang dari"
   minute_read                : "menit baca"
   share_on_label             : "Bagikan di"
+  share_message              : "Lihat apa yang aku lihat di The Live Traveling"
   meta_label                 :
   tags_label                 : "Label:"
   categories_label           : "Kategori:"
@@ -939,6 +991,8 @@ id: &DEFAULT_ID
   feed_label                 : "Feed"
   powered_by                 : "Didukung oleh"
   website_label              : "Website"
+  website_home_title         : ""
+  website_home_subtitle      : ""
   email_label                : "Email"
   recent_posts               : "Post terbaru"
   undefined_wpm              : "Parameter terdeskripsi words_per_minute di _config.yml"
@@ -980,6 +1034,7 @@ vi: &DEFAULT_VI
   less_than                  : "chỉ cần"
   minute_read                : "phút để đọc"
   share_on_label             : "Chia sẻ tại"
+  share_message              : "Hãy xem những gì tôi đã thấy trên The Live Traveling"
   meta_label                 :
   tags_label                 : "Thẻ:"
   categories_label           : "Danh mục:"
@@ -992,6 +1047,8 @@ vi: &DEFAULT_VI
   feed_label                 : "Feed"
   powered_by                 : "Xây dựng trên nền tảng"
   website_label              : "Website"
+  website_home_title         : ""
+  website_home_subtitle      : ""
   email_label                : "Email"
   recent_posts               : "Bài viết mới"
   undefined_wpm              : "Chưa định nghĩa thông số words_per_minute tại _config.yml"
@@ -1033,6 +1090,7 @@ da: &DEFAULT_DA
   less_than                  : "mindre end"
   minute_read                : "minutters læsning"
   share_on_label             : "Del på"
+  share_message              : "Se, hvad jeg har set på The Live Traveling"
   meta_label                 :
   tags_label                 : "Nøgleord:"
   categories_label           : "Kategorier:"
@@ -1045,6 +1103,8 @@ da: &DEFAULT_DA
   feed_label                 : "Feed"
   powered_by                 : "Drives af"
   website_label              : "Website"
+  website_home_title         : ""
+  website_home_subtitle      : ""
   email_label                : "E-mail"
   recent_posts               : "Seneste indlæg"
   undefined_wpm              : "Parameteren words_per_minute er ikke defineret i _config.yml"
@@ -1086,6 +1146,7 @@ pl: &DEFAULT_PL
   less_than                  : "mniej niż"
   minute_read                : "minut(y)"
   share_on_label             : "Udostępnij"
+  share_message              : "Zobacz, co widziałem w The Live Traveling"
   meta_label                 :
   tags_label                 : "Tagi:"
   categories_label           : "Kategorie:"
@@ -1098,6 +1159,8 @@ pl: &DEFAULT_PL
   feed_label                 : "Feed"
   powered_by                 : "Powstało dzięki"
   website_label              : "Strona"
+  website_home_title         : ""
+  website_home_subtitle      : ""
   email_label                : "Email"
   recent_posts               : "Najnowsze wpisy"
   undefined_wpm              : "Parametr words_per_minute nie został zdefiniowany w _config.yml."
@@ -1139,6 +1202,7 @@ ja: &DEFAULT_JA
   less_than                  :
   minute_read                :
   share_on_label             : "共有"
+  share_message              : "The Live Travelingで見たものを見てみて"
   meta_label                 :
   tags_label                 : "タグ:"
   categories_label           : "カテゴリー:"
@@ -1151,6 +1215,8 @@ ja: &DEFAULT_JA
   feed_label                 :
   powered_by                 :
   website_label              :
+  website_home_title         : 
+  website_home_subtitle      : 
   email_label                :
   recent_posts               : "最近の投稿"
   undefined_wpm              : "パラメータ words_per_minute が _config.yml で定義されていません"
@@ -1191,6 +1257,7 @@ sk: &DEFAULT_SK
   less_than                  : "menej ako"
   minute_read                : "minút"
   share_on_label             : "Zdieľaj na"
+  share_message              : "Pozrite sa, čo som videl v The Live Traveling"
   meta_label                 :
   tags_label                 : "Tagy:"
   categories_label           : "Kategórie:"
@@ -1203,6 +1270,8 @@ sk: &DEFAULT_SK
   feed_label                 : "Zoznam"
   powered_by                 : "Stránka vytvorená pomocou"
   website_label              : "Web stránka"
+  website_home_title         : ""
+  website_home_subtitle      : ""
   email_label                : "Email"
   recent_posts               : "Najnovšie príspevky"
   undefined_wpm              : "Nedefinovaný parameter words_per_minute v _config.yml"
@@ -1244,6 +1313,7 @@ hu: &DEFAULT_HU
   less_than                  : "kevesebb mint"
   minute_read                : "eltöltött percek"
   share_on_label             : "Megosztás"
+  share_message              : "Nézd meg, mit láttam The Live Traveling-ben!"
   meta_label                 :
   tags_label                 : "Tagek:"
   categories_label           : "Kategóriák:"
@@ -1256,6 +1326,8 @@ hu: &DEFAULT_HU
   feed_label                 : "Folyam"
   powered_by                 : "Powered by"
   website_label              : "Honlap"
+  website_home_title         : ""
+  website_home_subtitle      : ""
   email_label                : "Email"
   recent_posts               : "Friss cikkek"
   undefined_wpm              : "Ismeretlen paraméter words_per_minute : _config.yml"
@@ -1297,6 +1369,7 @@ ro: &DEFAULT_RO
   less_than                  : "mai puțin de"
   minute_read                : "minute de citit"
   share_on_label             : "Distribuie pe"
+  share_message              : "Uite ce am văzut pe The Live Traveling"
   meta_label                 :
   tags_label                 : "Etichete:"
   categories_label           : "Categorii:"
@@ -1309,6 +1382,8 @@ ro: &DEFAULT_RO
   feed_label                 : "Feed RSS"
   powered_by                 : "Cu sprijinul"
   website_label              : "Site"
+  website_home_title         : ""
+  website_home_subtitle      : ""
   email_label                : "Email"
   recent_posts               : "Articole recente"
   undefined_wpm              : "Parametru words_per_minute nedefinit în _config.yml"
@@ -1350,6 +1425,7 @@ pa: &DEFAULT_PA
   less_than                  : "ਤੋਂ ਘੱਟ"
   minute_read                : "ਮਿੰਟ ਵਿੱਚ ਪੜਿਆ ਜਾ ਸਕਦਾ ਹੈ"
   share_on_label             : "ਸਾਂਝਾ ਕਰੋ"
+  share_message              : 
   meta_label                 : "ਸਵੈ-ਸੰਦਰਭ ਜਾਣਕਾਰੀ"
   tags_label                 : "ਟੈਗ"
   categories_label           : "ਵਰਗ"
@@ -1362,6 +1438,8 @@ pa: &DEFAULT_PA
   feed_label                 : "ਫੀਡ"
   powered_by                 : "ਦੁਆਰਾ ਸੰਚਾਲਿਤ"
   website_label              : "ਵੈੱਬਸਾਇਟ"
+  website_home_title         : ""
+  website_home_subtitle      : ""
   email_label                : "ਈਮੇਲ"
   recent_posts               : "ਹਾਲ ਹੀ ਦੇ ਪੋਸਟ"
   undefined_wpm              : "_config.yml ਤੇ ਅਣ-ਪ੍ਰਭਾਸ਼ਿਤ ਪੈਰਾਮੀਟਰ words_per_minute"
@@ -1402,6 +1480,7 @@ fa: &DEFAULT_FA
   less_than                  : " "
   minute_read                : "دقیقه، طول مطالعه"
   share_on_label             : "اشتراک گذاری در"
+  share_message              : 
   meta_label                 :
   tags_label                 : "تگ ها: "
   categories_label           : "دسته بندی ها: "
@@ -1414,6 +1493,8 @@ fa: &DEFAULT_FA
   feed_label                 : "خوراک"
   powered_by                 : "طراحی شده توسط"
   website_label              : "سایت اینترنتی"
+  website_home_title         : ""
+  website_home_subtitle      : ""
   email_label                : "پست الکترونیک"
   recent_posts               : "آخرین مطالب"
   undefined_wpm              : ".(words_per_minute) _config.yml متغیر اشتباه در"
@@ -1456,6 +1537,7 @@ ml: &DEFAULT_ML
   less_than                  : "ഏതാണ്ട്"
   minute_read                : "മിനിറ്റ് ദൈർഖ്യം"
   share_on_label             : "ഷെയർ  ചെയ്യുവാൻ "
+  share_message              : 
   meta_label                 :
   tags_label                 : "ടാഗുകൾ:"
   categories_label           : "വിഭാഗങ്ങൾ:"
@@ -1468,6 +1550,8 @@ ml: &DEFAULT_ML
   feed_label                 : "ഫീഡ്"
   powered_by                 : "പവേർഡ് ബൈ"
   website_label              : "വെബ്സൈറ്റ്"
+  website_home_title         : ""
+  website_home_subtitle      : ""
   email_label                : "ഇ-മെയിൽ"
   recent_posts               : "സമീപകാല പോസ്റ്റുകൾ"
   undefined_wpm              : "Config.yml ലെ words_per_minute പരാമീറ്റർ നിർവചിച്ചിട്ടില്ല."
@@ -1509,6 +1593,7 @@ th: &DEFAULT_TH
   less_than                  : "น้อยกว่า"
   minute_read                : "นาที ในการอ่าน"
   share_on_label             : "แชร์ไปที่"
+  share_message              : 
   meta_label                 :
   tags_label                 : "แท็ก:"
   categories_label           : "หมวดหมู่:"
@@ -1521,6 +1606,8 @@ th: &DEFAULT_TH
   feed_label                 : "ฟืดข่าว"
   powered_by                 : "ขับเคลื่อนโดย"
   website_label              : "เว็บไซต์"
+  website_home_title         : ""
+  website_home_subtitle      : ""
   email_label                : "อีเมล"
   recent_posts               : "โพสล่าสุด"
   undefined_wpm              : "ไม่สามารถระบุพารามิเตอร์ words_per_minute ได้ใน _config.yml"
@@ -1561,6 +1648,7 @@ hi: &DEFAULT_HI
   less_than                  : "से कम"
   minute_read                : "मिनट में पढ़ सकते हैं"
   share_on_label             : "साझा करें"
+  share_message              : 
   meta_label                 : "स्व-संदर्भात्मक जानकारी"
   tags_label                 : "अंकितक:"
   categories_label           : "श्रेणियाँ:"
@@ -1573,6 +1661,8 @@ hi: &DEFAULT_HI
   feed_label                 : "फ़ीड"
   powered_by                 : "द्वारा संचालित"
   website_label              : "वेबसाइट"
+  website_home_title         : ""
+  website_home_subtitle      : ""
   email_label                : "ईमेल"
   recent_posts               : "हाल के पोस्ट"
   undefined_wpm              : "_config.yml पर अपरिभाषित पैरामीटर words_per_minute"
@@ -1614,6 +1704,7 @@ ca: &DEFAULT_CA
   less_than                  : "es llegeix en menys de"
   minute_read                : "minut(s)"
   share_on_label             : "Comparteix a"
+  share_message              : 
   meta_label                 :
   tags_label                 : "Etiquetes:"
   categories_label           : "Categories:"
@@ -1626,6 +1717,8 @@ ca: &DEFAULT_CA
   feed_label                 : "Feed"
   powered_by                 : "Funciona amb"
   website_label              : "Pàgina web"
+  website_home_title         : ""
+  website_home_subtitle      : ""
   email_label                : "Correu electrònic"
   recent_posts               : "Entrades recents"
   undefined_wpm              : "El paràmetre words_per_minute no està definit a _config.yml"
@@ -1667,6 +1760,7 @@ ga: &DEFAULT_GA
   less_than                  : "níos lú na"
   minute_read                : "a léamh"
   share_on_label             : "Roinn ar"
+  share_message              : 
   meta_label                 :
   tags_label                 : "Clibeanna:"
   categories_label           : "Catagoírí:"
@@ -1678,6 +1772,8 @@ ga: &DEFAULT_GA
   feed_label                 : "Feed"
   powered_by                 : "Ag fáil cumhacht as"
   website_label              : "Suíomh gréasáin"
+  website_home_title         : ""
+  website_home_subtitle      : ""
   email_label                : "R-phost"
   recent_posts               : "Postálacha le deanaí"
   comment_form_comment_label : "Trácht"
@@ -1715,6 +1811,7 @@ fi: &DEFAULT_FI
   less_than                  : "vähemmän kuin"
   minute_read                : "minuuttia luettavaa"
   share_on_label             : "Jaa"
+  share_message              : 
   meta_label                 :
   tags_label                 : "Tunnisteet:"
   categories_label           : "Kategoriat:"
@@ -1727,6 +1824,8 @@ fi: &DEFAULT_FI
   feed_label                 : "Syöte"
   powered_by                 : "Käyttäen"
   website_label              : "Kotisivu"
+  website_home_title         : ""
+  website_home_subtitle      : ""
   email_label                : "Sähköposti"
   recent_posts               : "Viimeisimmät kirjoitukset"
   undefined_wpm              : "words_per_minute asetusta ei ole määritelty _config.yml tiedostossa"
@@ -1766,6 +1865,7 @@ my: &DEFAULT_MY
   less_than                  : "ဖတ်ရန်ကြာချိန်"
   minute_read                : "မိနစ်"
   share_on_label             : "မျှဝေပါ။"
+  share_message              : 
   meta_label                 :
   tags_label                 : "အမှတ်အသားများ -"
   categories_label           : "အမျိုးအစားများ -"
@@ -1778,6 +1878,8 @@ my: &DEFAULT_MY
   feed_label                 : "Feed ယူရန် -"
   powered_by                 : "ပံ့ပိုးသည်"
   website_label              : "ဝဘ်ဆိုက်"
+  website_home_title         : ""
+  website_home_subtitle      : ""
   email_label                : "အီးမေးလ်"
   recent_posts               : "လတ်တလောရေးသားချက်များ"
   undefined_wpm              : "_config.yml မှာ words_per_minute ကိုမသတ်မှတ်ထားပါ။"
@@ -1819,6 +1921,7 @@ no: &DEFAULT_NO
   less_than                  : "mindre enn"
   minute_read                : "minutters lesing"
   share_on_label             : "Del på"
+  share_message              : 
   meta_label                 :
   tags_label                 : "Nøkkelord:"
   categories_label           : "Kategorier:"
@@ -1831,6 +1934,8 @@ no: &DEFAULT_NO
   feed_label                 : "Feed"
   powered_by                 : "Lagd med"
   website_label              : "Nettside"
+  website_home_title         : ""
+  website_home_subtitle      : ""
   email_label                : "E-post"
   recent_posts               : "Nyeste innlegg"
   undefined_wpm              : "Parameteret words_per_minute er ikke definert i _config.yml"
@@ -1874,6 +1979,7 @@ he: &DEFAULT_HE
   less_than                  : "פחות מ"
   minute_read                : "דקת קריאה"
   share_on_label             : "שתפו ב"
+  share_message              : 
   meta_label                 :
   tags_label                 : "תגיות:"
   categories_label           : "קטגוריות:"
@@ -1886,6 +1992,8 @@ he: &DEFAULT_HE
   feed_label                 : "פיד"
   powered_by                 : "Powered by"
   website_label              : "אתר"
+  website_home_title         : ""
+  website_home_subtitle      : ""
   email_label                : "אימייל"
   recent_posts               : "פוסטים אחרונים"
   undefined_wpm              : "Undefined parameter words_per_minute at _config.yml"
@@ -1927,6 +2035,7 @@ ar: &DEFAULT_AR
   less_than                  : "اقل من"
   minute_read                : "دقيقة قرائية"
   share_on_label             : "مشاركة"
+  share_message              : 
   meta_label                 :
   tags_label                 : "العلامات الوصفية:"
   categories_label           : "الفئات:"
@@ -1939,6 +2048,8 @@ ar: &DEFAULT_AR
   feed_label                 : "الاخبار - RSS"
   powered_by                 : "تم تطوير بواسطة"
   website_label              : "موقع"
+  website_home_title         : ""
+  website_home_subtitle      : ""
   email_label                : "ايميل"
   recent_posts               : "المشاركات الأخيرة"
   undefined_wpm              : "معامل غير معرف في words_per_minute (كلمة في الدقيقة) في ملف _config.yml"
@@ -1986,6 +2097,7 @@ sw: &DEFAULT_SW
   less_than                  : "Soma kwa dakikia ndogo kuliko"
   minute_read                : "Soma kwa dakika"
   share_on_label             : "Tangaza"
+  share_message              : 
   meta_label                 :
   tags_label                 : "Alama:"
   categories_label           : "Aina:"
@@ -1998,6 +2110,8 @@ sw: &DEFAULT_SW
   feed_label                 : "Feed"
   powered_by                 : "Inatumia"
   website_label              : "Tovuti"
+  website_home_title         : ""
+  website_home_subtitle      : ""
   email_label                : "Barua pepe"
   recent_posts               : "Makala juzi"
   undefined_wpm              : "Ingizo words_per_minute kwa _config.yml haijawekwa"
@@ -2041,6 +2155,7 @@ uk: &DEFAULT_UK
   less_than                  : "менше ніж"
   minute_read                : "хв. на чітання"
   share_on_label             : "Поділитися"
+  share_message              : "Подивіться, що я побачив у The Live Traveling"
   meta_label                 :
   tags_label                 : "Мітки:"
   categories_label           : "Розділи:"
@@ -2053,6 +2168,8 @@ uk: &DEFAULT_UK
   feed_label                 : "RSS-стрічка"
   powered_by                 : "Сайт працює на"
   website_label              : "Сайт"
+  website_home_title         : ""
+  website_home_subtitle      : ""
   email_label                : "Электронна пошта"
   recent_posts               : "Останні записи"
   undefined_wpm              : "Не визначено параметр words_per_minute в _config.yml"
@@ -2093,6 +2210,7 @@ cs: &DEFAULT_CS
   less_than                  : "méně než"
   minute_read                : "minut"
   share_on_label             : "Sdílet"
+  share_message              : "Podívej, co jsem viděl v The Live Traveling"
   meta_label                 :
   tags_label                 : "Štítky:"
   categories_label           : "Rubriky:"
@@ -2105,6 +2223,8 @@ cs: &DEFAULT_CS
   feed_label                 : "Zdroj"
   powered_by                 : "Používáme"
   website_label              : "Web"
+  website_home_title         : ""
+  website_home_subtitle      : ""
   email_label                : "E-mail"
   recent_posts               : "Nejnovější příspěvky"
   undefined_wpm              : "V souboru _config.yml chybí parametr words_per_minute"
@@ -2146,6 +2266,7 @@ bg: &DEFAULT_BG
   less_than                  : "по-малко от"
   minute_read                : "минута четене"
   share_on_label             : "Споделете"
+  share_message              : "Виж какво видях в The Live Traveling"
   meta_label                 :
   tags_label                 : "Етикети:"
   categories_label           : "Категории:"
@@ -2158,6 +2279,8 @@ bg: &DEFAULT_BG
   feed_label                 : "Емисия"
   powered_by                 : "Осъществено чрез"
   website_label              : "Уебсайт"
+  website_home_title         : ""
+  website_home_subtitle      : ""
   email_label                : "Е-поща"
   recent_posts               : "Последни публикации"
   undefined_wpm              : "Недефиниран параметър words_per_minute в _config.yml"
