@@ -1,9 +1,9 @@
 main:
   # - title: "Inicio"
   #   url: /
-  - title: "Viajes"
+  - title: "Trips"
     url: /trips/
-  - title: "La Vida"
+  - title: "The Live"
     url: /timeline/
-  - title: "Sobre Mi..."
+  - title: "About me..."
     url: /about/
