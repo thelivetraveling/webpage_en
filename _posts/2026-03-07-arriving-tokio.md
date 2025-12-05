@@ -2,7 +2,7 @@
 layout: single
 title: "Arrival in Tokyo"
 excerpt: "From arrival at Narita to an historic afternoon in Asakusa."
-date:   2026-03-07 09:00:00 +0200
+date:   2026-03-06 09:00:00 +0200
 categories: [japan]
 tags: [japan, tokio, narita, ueno, asakusa, temple]
 header:
