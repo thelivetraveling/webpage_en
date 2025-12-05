@@ -1,5 +1,6 @@
 # User interface text and labels
-
+# If you want to translate the blog take a look here
+# https://lazyjobseeker.github.io/en/posts/github-blog-multiple-language-support-with-jekyll-theme-minimal-mistakes/
 # English (default)
 # -----------------
 en: &DEFAULT_EN

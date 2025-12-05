@@ -1,5 +1,5 @@
 ---
-title: Artículos sobre Norway <span class="fi fi-no">
+title: Posts of Norway <span class="fi fi-no">
 layout: category
 permalink: /norway/
 taxonomy: norway

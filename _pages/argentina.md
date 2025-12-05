@@ -1,5 +1,5 @@
 ---
-title: Artículos sobre Argentina <span class="fi fi-ar">
+title: Posts of Argentina <span class="fi fi-ar">
 layout: category
 permalink: /argentina/
 taxonomy: argentina
