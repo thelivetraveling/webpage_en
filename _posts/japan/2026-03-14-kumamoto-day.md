@@ -2,12 +2,12 @@
 layout: single
 title: "Kumamoto and Its Resilient Castle"
 excerpt: "Fortress under reconstruction, zen gardens, commercial arcade and urban modernity"
-date: 2026-03-13 09:00:00 +0200
+date: 2026-03-14 09:00:00 +0200
 categories: [japan]
 tags: [kumamoto, castle, gardens, videogames, reconstruction]
 header:
-  teaser: "/assets/images/20260313/Kumamoto.webp"
-  overlay_image: "/assets/images/20260313/Kumamoto.webp"
+  teaser: "/assets/images/2026/03/14/Kumamoto.webp"
+  overlay_image: "/assets/images/2026/03/14/Kumamoto.webp"
   caption: "By Hisagi"
   actions:
     - label: "More Info"
@@ -112,7 +112,7 @@ Taking the tram from downtown to Suizenji Koen takes about 15 minutes for ¥18
 This 64‑hectare strolling garden was created in 1632 by Hosokawa Tadatoshi, the first feudal lord of Higo (Kumamoto) after the Hosokawa clan arrived. During a falconry outing, Tadatoshi was impressed by the crystal spring water emerging from the ground, fed by underground aquifers connected to Mount Aso. He decided to build a Buddhist temple called Suizenji and a tea house there.
 
 <figure class="align-center">
-  <img src="{{ '/assets/images/20260313/JojuenGarden.webp' | relative_url }}" alt="Jojuen Garden">
+  <img src="{{ '/assets/images/2026/03/14/JojuenGarden.webp' | relative_url }}" alt="Jojuen Garden">
   <figcaption class="align-right">Part of Jojuen Garden by <a href="https://ja.wikipedia.org/wiki/user:663highland">663highland</a></figcaption>
 </figure>
 

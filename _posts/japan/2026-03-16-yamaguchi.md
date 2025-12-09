@@ -2,12 +2,12 @@
 layout: single
 title: "Yamaguchi, the Kyoto of the West"
 excerpt: "Sesshu Zen garden, national pagoda and Ouchi clan culture"
-date: 2026-03-15 09:00:00 +0200
+date: 2026-03-16 09:00:00 +0200
 categories: [japan]
 tags: [yamaguchi, temples, gardens, shrine]
 header:
-  teaser: "/assets/images/20260315/Yamaguchi.webp"
-  overlay_image: "/assets/images/20260315/Yamaguchi.webp"
+  teaser: "/assets/images/2026/03/16/Yamaguchi.webp"
+  overlay_image: "/assets/images/2026/03/16/Yamaguchi.webp"
   caption: "By Wiki708"
   actions:
     - label: "More Info"
@@ -48,7 +48,7 @@ Alighting at Yamaguchi Station is arriving in a city that breathes at another rh
 From the station everything is reachable by bus or taxi. To get to Joeiji Temple the easiest way is to take a taxi for about ¥1,500 or the local train two stops to Miyano Station and walk 15 minutes.
 
 <figure class="align-center">
-  <img src="{{ '/assets/images/20260315/YamaguchiStation.webp' | relative_url }}" alt="Yamaguchi Station">
+  <img src="{{ '/assets/images/2026/03/16/YamaguchiStation.webp' | relative_url }}" alt="Yamaguchi Station">
   <figcaption class="align-right">Yamaguchi Station on a quiet morning by <a href="https://commons.wikimedia.org/wiki/User:Asturio_Cantabrio">Asturio Cantabrio</a></figcaption>
 </figure>
 

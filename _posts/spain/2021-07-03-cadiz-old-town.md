@@ -6,12 +6,8 @@ date: 2021-07-03 09:00:00 +0200
 categories: ["spain"]
 tags: ["cadiz", "cathedral", "market", "tower", "theatre", "pescaíto"]
 header:
-  teaser: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Catedral_de_las_Am%C3%A9ricas.jpg/1280px-Catedral_de_las_Am%C3%A9ricas.jpg"
-  overlay_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Catedral_de_las_Am%C3%A9ricas.jpg/1280px-Catedral_de_las_Am%C3%A9ricas.jpg"
-  caption: "By: Pepe Gadeiras CC BY-SA 4.0"
-  actions:
-    - label: "More Info"
-      url: "https://commons.wikimedia.org/w/index.php?title=User:PEPE_GADEIRAS&action=edit&redlink=1"
+  teaser: "/assets/images/2021/07/03/Catedral.webp"
+  overlay_image: "/assets/images/2021/07/03/Catedral.webp"
 map_points:
   - name: "Torre Tavira"
     lat: 36.5322
@@ -76,6 +72,11 @@ The contrast upon entering was immediate: from the silence of the tower to the b
 **Freiduría Las Flores** is an institution in Cádiz, emblematic for its quality and tradition. Located just meters from the market, it represents the essence of quick and tasty Cádiz food: *pescaíto frito*. This cooking method, which immerses seafood and fish in very hot olive oil, is a culinary legacy dating back centuries.
 
 The smell of frying guided me to the door. The line moved fast. Ordering a portion of "mixed fried fish" and eating it standing in the street, with your fingers, is a mandatory ritual. The crunchy texture on the outside and tender on the inside, the perfect touch of salt... accompanied by a very cold draft beer, was the perfect lunch. Simple, authentic, and delicious.
+
+<figure class="align-center">
+  <img src="/assets/images/2021/07/03/FreiduriaLasFlores.webp" alt="Freiduria Las Flores">
+  <figcaption class="align-right">Freiduria Las Flores by: <a href="https://github.com/thelivetraveling">The Live Traveling</a>. License: <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.en">CC BY-SA 4.0</a></figcaption>
+</figure>
 
 ---
 

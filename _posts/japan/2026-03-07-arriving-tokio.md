@@ -2,12 +2,12 @@
 layout: single
 title: "Arrival in Tokyo"
 excerpt: "From arrival at Narita to an historic afternoon in Asakusa."
-date:   2026-03-06 09:00:00 +0200
+date:   2026-03-07 09:00:00 +0200
 categories: [japan]
 tags: [japan, tokio, narita, ueno, asakusa, temple]
 header:
-  teaser: /assets/images/20260306/NaritaAirport.webp
-  overlay_image: /assets/images/20260306/NaritaAirport.webp
+  teaser: /assets/images/2026/03/07/NaritaAirport.webp
+  overlay_image: /assets/images/2026/03/07/NaritaAirport.webp
   caption: "By PSnyan, CC BY-SA 3.0"
   actions:
     - label: "More Info"
@@ -50,7 +50,7 @@ Arriving at Narita International Airport (NRT) means landing at Japan's main int
 Narita is a sprawling airport with three terminals—two for regular flights and one dedicated to low‑cost carriers—connected by free shuttle buses or pedestrian walkways. It’s comfortable if you arrive after a long flight: it offers extensive services, duty‑free shops, rest areas, and good connections to central Tokyo.
 
 <figure class="align-center">
-  <img src="{{ '/assets/images/20260306/NaritaAirport.webp' | relative_url }}" alt="Narita Airport">
+  <img src="{{ '/assets/images/2026/03/07/NaritaAirport.webp' | relative_url }}" alt="Narita Airport">
   <figcaption class="align-right">We Just Arrived</figcaption>
 </figure>
 

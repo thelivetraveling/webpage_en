@@ -2,12 +2,12 @@
 layout: single
 title:  "Perfect Day in Asakuza"
 excerpt: "A tour of Asakusa from its commercial streets to historic shrines and traditional parks."
-date: 2026-03-07 09:00:00 +0200
+date: 2026-03-08 09:00:00 +0200
 categories: [japan]
 tags: [japan, asakuza, walk, city, temple]
 header:
-  teaser: /assets/images/20260307/Sensoji.webp
-  overlay_image: /assets/images/20260307/Sensoji.webp
+  teaser: /assets/images/2026/03/08/Sensoji.webp
+  overlay_image: /assets/images/2026/03/08/Sensoji.webp
 map_points:
     # "driving" "walking" "bicycling" "transit"
   - name: "Asakusa Nishi-sando Shopping Street"
@@ -97,7 +97,7 @@ A curiosity that fascinated me: the original image of Kannon **is never shown to
 The temple has undergone many reconstructions: it was completely destroyed during World War II bombings in 1945, but rebuilt again in 1958. The roof of the main building is now titanium, blending tradition with innovation.
 
 <figure class="align-center">
-  <img src="{{ '/assets/images/20260307/Sensoji.webp' | relative_url }}" alt="Sensō-ji Temple">
+  <img src="{{ '/assets/images/2026/03/08/Sensoji.webp' | relative_url }}" alt="Sensō-ji Temple">
   <figcaption class="align-right">Sensō-ji Temple</figcaption>
 </figure>
 

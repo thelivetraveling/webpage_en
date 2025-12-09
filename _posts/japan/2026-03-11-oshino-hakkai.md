@@ -2,12 +2,12 @@
 layout: single
 title: "Oshino Hakkai"
 excerpt: "A quick train trip from Tokyo to Oshino Hakkai to discover villages, pure water and tradition."
-date: 2026-03-10 09:00:00 +0200
+date: 2026-03-11 09:00:00 +0200
 categories: [japan]
 tags: [fuji, excursion, train, travel]
 header:
-  teaser: /assets/images/20260310/OshinoHakkai.webp
-  overlay_image: /assets/images/20260310/OshinoHakkai.webp
+  teaser: /assets/images/2026/03/11/OshinoHakkai.webp
+  overlay_image: /assets/images/2026/03/11/OshinoHakkai.webp
   caption: "By Japan.travel"
   actions:
     - label: "More Info"
@@ -91,7 +91,7 @@ I arrived at **Oshino Hakkai** mid‑morning. The contrast with Tokyo could not 
 The history of Oshino Hakkai is deeply natural and cultural at once. Its eight ponds form thanks to water filtered for decades through volcanic rock layers of Fuji, resulting in surprisingly transparent water. Historically these ponds were considered sacred and part of purification routes for pilgrims climbing the mountain.
 
 <figure class="align-center">
-  <img src="{{ '/assets/images/20260310/OshinoHakkai.webp' | relative_url }}" alt="Oshino Hakkai">
+  <img src="{{ '/assets/images/2026/03/11/OshinoHakkai.webp' | relative_url }}" alt="Oshino Hakkai">
   <figcaption class="align-right">Kagamiike Pond</figcaption>
 </figure>
 

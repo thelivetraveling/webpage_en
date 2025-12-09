@@ -2,10 +2,11 @@
 layout: single
 title: "Shosha and Himeji"
 excerpt: "Cable car ascent to the Engyo-ji Temple on Mount Shosha and visit to the majestic Himeji Castle."
-date: 2026-03-24 07:00:00 +0200
+date: 2026-03-25 07:00:00 +0200
 categories: ["japan"]
 tags: ["himeji", "castle", "temple", "mountain", "ropeway", "history"]
 header:
+  # teaser: "/assets/images/2026/03/25/Himeji.webp"
   teaser: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Mount_Shosha_Ropeway_-_panoramio.jpg/1280px-Mount_Shosha_Ropeway_-_panoramio.jpg"
   overlay_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Mount_Shosha_Ropeway_-_panoramio.jpg/1280px-Mount_Shosha_Ropeway_-_panoramio.jpg"
   caption: "By: 6940719 CC BY-SA 4.0"

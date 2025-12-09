@@ -2,12 +2,12 @@
 layout: single
 title:  "A Vibrant Day in Tokyo"
 excerpt: "Discover the best of Tokyo: from immersive art to lively neighborhoods."
-date:   2026-03-08 09:00:00 +0200
+date:   2026-03-09 09:00:00 +0200
 categories: [japan]
 tags: [japan, tokyo, shibuya, turism, park, walk]
 header:
-  teaser: /assets/images/20260308/Shibuya.webp
-  overlay_image: /assets/images/20260308/Shibuya.webp
+  teaser: /assets/images/2026/03/09/Shibuya.webp
+  overlay_image: /assets/images/2026/03/09/Shibuya.webp
 map_points:
   - name: "teamLab Borderless: MORI Building DIGITAL ART MUSEUM"  
     lat: 35.6669
@@ -96,7 +96,7 @@ After lunch, I crossed into **Shibuya**, toward its famous central street. That 
 It’s a place that represents the contemporary, urban, vibrant. It reminded me why Tokyo never sleeps: here every corner is a movie scene. For me, walking in Shibuya isn’t just a tourist ritual; it’s a sensory experience that connects you with the modern city.
 
 <figure class="align-center">
-  <img src="{{ '/assets/images/20260308/Shibuya.webp' | relative_url }}" alt="Shibuya Crossing">
+  <img src="{{ '/assets/images/2026/03/09/Shibuya.webp' | relative_url }}" alt="Shibuya Crossing">
   <figcaption class="align-right">The legendary Shibuya crossing</figcaption>
 </figure>
 

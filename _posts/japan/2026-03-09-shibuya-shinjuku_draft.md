@@ -3,12 +3,12 @@ layout: single
 published: false
 title: "A Perfect Day in Tokyo"
 excerpt: "Discover the best of Tokyo: from immersive art to vibrant neighborhoods."
-date: 2026-03-08 09:00:00 +0200
+date: 2026-03-09 09:00:00 +0200
 categories: [japan]
 tags: [tokio, shibuya, nightlive, shop]
 header:
-  teaser: /assets/images/20260308/Shibuya.webp
-  overlay_image: /assets/images/20260308/Shibuya.webp
+  teaser: /assets/images/2026/03/09/Shibuya.webp
+  overlay_image: /assets/images/2026/03/09/Shibuya.webp
 map_points:
     # "driving" "walking" "bicycling" "transit"
     # "restaurant", "temple", "museum", "park", "station", "hotel", "shop", "default"
@@ -93,7 +93,7 @@ I couldn’t visit Tokyo without experiencing the legendary Shibuya Crossing, ev
 You have to experience it from above to truly appreciate the pattern. The Starbucks across the street offers perfect windows for viewing.
 
 <figure class="align-center">
-  <img src="{{ '/assets/images/20260308/Shibuya.webp' | relative_url }}" alt="Shibuya Crossing">
+  <img src="{{ '/assets/images/2026/03/09/Shibuya.webp' | relative_url }}" alt="Shibuya Crossing">
   <figcaption class="align-right">The legendary Shibuya crossing</figcaption>
 </figure>
 

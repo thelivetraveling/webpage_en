@@ -2,12 +2,12 @@
 layout: single
 title: "Ikebukuro and Jimbocho"
 excerpt: "A walking route through iconic spots, a paper museum, bridges, books, and a quiet café."
-date: 2026-03-09 09:00:00 +0200
+date: 2026-03-10 09:00:00 +0200
 categories: [japan]
 tags: [Ikebukuro, Jimbocho, origami, books, leisure]
 header:
-  teaser: /assets/images/20260309/Jimbocho.webp
-  overlay_image: /assets/images/20260309/Jimbocho.webp
+  teaser: /assets/images/2026/03/10/Jimbocho.webp
+  overlay_image: /assets/images/2026/03/10/Jimbocho.webp
   caption: "By Kenichiro MATOHARA"
   actions:
     - label: "More Info"
@@ -76,7 +76,7 @@ The Origami Museum is a perfect stop for those who appreciate detail. More than 
 Crossing the Kanda‑gawa is Hijiri Bridge, a modern arch that connects neighborhoods and offers excellent spots to contemplate passing trains and water‑level life. It’s a suitable place to pause, take photos and notice how everyday blends with simple yet photogenic architectural elements.
 
 <figure class="align-center">
-  <img src="{{ '/assets/images/20260309/Hijiri_bridge.webp' | relative_url }}" alt="Hijiri bridge">
+  <img src="{{ '/assets/images/2026/03/10/Hijiri_bridge.webp' | relative_url }}" alt="Hijiri bridge">
   <figcaption class="align-right">Hijiri bridge</figcaption>
 </figure>
 

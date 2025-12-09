@@ -3,12 +3,12 @@ layout: single
 published: false
 title: "Kagoshima and Sakurajima"
 excerpt: "Hotel, shrine, castle and beach in Kagoshima"
-date: 2026-03-12 09:00:00 +0200
+date: 2026-03-13 09:00:00 +0200
 categories: [japan]
 tags: [kagoshima, sakurajima, history, nature, gastronomy]
 header:
-  teaser: "/assets/images/20260312/Kagoshima.webp"
-  overlay_image: "/assets/images/20260312/Kagoshima.webp"
+  teaser: "/assets/images/2026/03/13/Kagoshima.webp"
+  overlay_image: "/assets/images/2026/03/13/Kagoshima.webp"
   caption: "By Toecheese-jp"
   actions:
     - label: "More Info"
@@ -103,7 +103,7 @@ During summer the beach welcomes surfers and scuba divers who explore coral reef
 The zone is equipped with public toilets, showers, and a small information centre that provides data on volcanic seismic activity and how ocean currents affect water quality. Additionally, **Iso Onsen** (hot spring) lies just minutes away on foot, offering a complete relaxation experience at day’s end.
 
 <figure class="align-center">
-  <img src="{{ '/assets/images/20260312/IsoBeach.webp' | relative_url }}" alt="Iso Beach">
+  <img src="{{ '/assets/images/2026/03/13/IsoBeach.webp' | relative_url }}" alt="Iso Beach">
   <figcaption class="align-right">Iso beach and its views</figcaption>
 </figure>
 

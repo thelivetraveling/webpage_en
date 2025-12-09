@@ -2,12 +2,12 @@
 layout: single
 title: "Beppu and its Infernos"
 excerpt: "Geothermal infernos, volcanic mud baths, and Kyushu's thermal magic"
-date: 2026-03-14 09:00:00 +0200
+date: 2026-03-15 09:00:00 +0200
 categories: [japan]
 tags: [beppu, oita, onsen, geothermal]
 header:
-  teaser: "/assets/images/20260314/Beppu.webp"
-  overlay_image: "/assets/images/20260314/Beppu.webp"
+  teaser: "/assets/images/2026/03/15/Beppu.webp"
+  overlay_image: "/assets/images/2026/03/15/Beppu.webp"
   caption: "By 663highland"
   actions:
     - label: "More Info"
@@ -65,7 +65,7 @@ The site has six distinct districts, each with its own geothermal personality. T
 The culinary experience also contributes to the attraction. The famous “Onsen Piitan” are eggs boiled for 24 hours in geothermal steam, giving them a unique color and flavor. I bought several because they were truly delicious, and saw two people buying 16 all at once. They also sell soy pudding and other items cooked with natural heat.
 
 <figure class="align-center">
-  <img src="{{ '/assets/images/20260314/Kamado.webp' | relative_url }}" alt="Kamado Jigoku">
+  <img src="{{ '/assets/images/2026/03/15/Kamado.webp' | relative_url }}" alt="Kamado Jigoku">
   <figcaption class="align-right">Colored ponds in Kamado Jigoku by <a href="https://ja.wikipedia.org/wiki/user:663highland">663highland</a></figcaption>
 </figure>
 
@@ -108,7 +108,7 @@ After so much geothermal heat, a walk through Beppu Park was wonderful. This exp
 The park is a perfect urban oasis to rest. There are paths winding between bamboo groves, playground areas, picnic spots, and strategically placed benches to admire the vegetation. In spring it blooms with cherry trees, while in autumn the trees shift to spectacular crimson and golden hues. Wisteria blooms from April to May, creating purple curtains hanging over the paths.
 
 <figure class="align-center">
-  <img src="{{ '/assets/images/20260314/Beppu.webp' | relative_url }}" alt="Beppu Park">
+  <img src="{{ '/assets/images/2026/03/15/Beppu.webp' | relative_url }}" alt="Beppu Park">
   <figcaption class="align-right">Paths in Beppu Park among bamboo by <a href="https://commons.wikimedia.org/wiki/User:大分帰省中">大分帰省中</a></figcaption>
 </figure>
 

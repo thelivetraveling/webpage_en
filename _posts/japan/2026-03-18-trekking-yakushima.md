@@ -2,10 +2,11 @@
 layout: single
 title: "Arakawa Route Yakushima"
 excerpt: "Start of the Arakawa route towards the legendary Jomon Sugi cedar via ancient forest rails."
-date: 2026-03-17 07:00:00 +0200
+date: 2026-03-18 07:00:00 +0200
 categories: [japan]
 tags: [yakushima, trekking, jomon sugi, forest, cedars, nature, heritage]
 header:
+  # teaser: "/assets/images/2026/03/18/Yakushima.webp"
   teaser: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Forest_in_Yakushima_50.jpg/1280px-Forest_in_Yakushima_50.jpg"
   overlay_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Forest_in_Yakushima_50.jpg/1280px-Forest_in_Yakushima_50.jpg"
   caption: "By Σ64, CC BY-SA 3.0"

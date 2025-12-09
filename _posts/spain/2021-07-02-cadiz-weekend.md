@@ -6,12 +6,8 @@ date: 2021-07-02 09:00:00 +0200
 categories: ["spain"]
 tags: ["cadiz", "museum", "history", "plaza", "architecture", "summer"]
 header:
-  teaser: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Ayuntamiento_de_C%C3%A1diz.jpg/1280px-Ayuntamiento_de_C%C3%A1diz.jpg"
-  overlay_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Ayuntamiento_de_C%C3%A1diz.jpg/1280px-Ayuntamiento_de_C%C3%A1diz.jpg"
-  caption: "By: Jorge Franganillo CC BY-SA 4.0"
-  actions:
-    - label: "More Info"
-      url: "https://www.flickr.com/photos/46191841@N00/54910414305/"
+  teaser: "/assets/images/2021/07/02/PlazaSanAntonio.webp"
+  overlay_image: "/assets/images/2021/07/02/PlazaSanAntonio.webp"
 map_points:
   - name: "El armador Casa palacio"
     lat: 36.5345
@@ -57,11 +53,12 @@ We explore the historic center of Cádiz, from the iconic Plaza de San Antonio t
 
 Mid-morning in July, the square was bathed in intense sunlight mitigated by the sea breeze. The café terraces were starting to fill up. I sat for a moment by the fountain, watching the comings and goings of the *gaditanos* under the palm and orange trees. The atmosphere was calm, perfect for contemplating the white and yellow façades of the buildings surrounding this city "drawing room."
 
----
+<figure class="align-center">
+  <img src="/assets/images/2021/07/02/PlazaSanAntonio.webp" alt="Plaza de San Antonio">
+  <figcaption class="align-right">Square of Saint Antonio by: <a href="https://github.com/thelivetraveling">The Live Traveling</a>. License: <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.en">CC BY-SA 4.0</a></figcaption>
+</figure>
 
-{% if page.map_points %}
-  {% include google-maps.html %}
-{% endif %}
+---
 
 ## **Plaza de la Mina: Neoclassical Heart**
 
@@ -79,16 +76,15 @@ Entering the museum was like immersing oneself in the layers of Cádiz's history
 
 ---
 
-<figure class="align-center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Sala_de_t%C3%ADteres_de_la_T%C3%ADa_Norica.jpg/1280px-Sala_de_t%C3%ADteres_de_la_T%C3%ADa_Norica.jpg" alt="Puppet Room in the Museo de Cádiz">
-  <figcaption class="align-right">Puppet Room by: <a href="https://commons.wikimedia.org/wiki/User:Jatrobat">Jatrobat</a>. License: <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.en">CC BY-SA 4.0</a></figcaption>
-</figure>
-
 ## **Monument to the Constitution of 1812: Tribute to La Pepa**
 
 The **Monument to the Cortes of 1812**, popularly known as the Monument to the Constitution of 1812 or "La Pepa," was erected in 1912 to commemorate the first centenary of the historic Spanish Constitution promulgated in Cádiz. The work of architect Modesto López Otero and sculptor Aniceto Marinas, it is Neoclassical in style and symbolizes the values of liberty, justice, and citizenship.
 
 From afar, the monument dominates the square with its imposing semicircular colonnade and its tall central tower. As I approached, I could appreciate the details of the sculptures representing War, Peace, Agriculture, and Industry. Reading the names of the *doceañista* deputies inscribed on the hemicycle is an exercise in historical memory. It is a place that emanates solemnity and civic pride.
+
+{% if page.map_points %}
+  {% include google-maps.html %}
+{% endif %}
 
 ---
 

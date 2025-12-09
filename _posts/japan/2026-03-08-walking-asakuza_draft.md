@@ -3,7 +3,7 @@ layout: single
 published: false
 title: "Day in Asakusa"
 excerpt: "A tour of Asakusa from its commercial streets to historic shrines and traditional parks."
-date: 2026-03-07 09:00:00 +0200
+date: 2026-03-08 09:00:00 +0200
 categories: [japan]
 tags: [asakusa, tokio, temple, shrine, shop, park]
 header:

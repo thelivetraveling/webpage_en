@@ -2,10 +2,11 @@
 layout: single
 title: "Kobe and Okayama"
 excerpt: "Route from Shin-Kobe to Okayama, visiting stations, gardens and the iconic castle."
-date: "2026-03-21 07:00:00 +0200"
+date: "2026-03-22 07:00:00 +0200"
 categories: [japan]
 tags: [kobe, okayama, castle, garden]
 header:
+  # teaser: "/assets/images/2026/03/22/Okayama.webp"
   teaser: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Okayama_st05s3200.jpg/1280px-Okayama_st05s3200.jpg"
   overlay_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Okayama_st05s3200.jpg/1280px-Okayama_st05s3200.jpg"
   caption: "By 663highland, CC BY-SA 3.0"

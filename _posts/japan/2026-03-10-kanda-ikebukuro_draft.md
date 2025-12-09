@@ -3,12 +3,12 @@ layout: single
 published: false
 title: "Ikebukuro and Jimbocho"
 excerpt: "Origami museum, Hijiri Bridge, Daruma and cafés in Tokyo"  
-date: 2026-03-09 09:00:00 +0200  
+date: 2026-03-10 09:00:00 +0200  
 categories: [japan]  
 tags: [tokio, culture, origami, books, meals]  
 header:  
-  teaser: "/assets/images/20260309/Jimbocho.webp"  
-  overlay_image: "/assets/images/20260309/Jimbocho.webp"  
+  teaser: "/assets/images/2026/03/10/Jimbocho.webp"  
+  overlay_image: "/assets/images/2026/03/10/Jimbocho.webp"  
   caption: "By Kenichiro MATOHARA"
   actions:  
     - label: "More Info"  
@@ -95,7 +95,7 @@ The **Jimbocho** neighbourhood is known as Tokyo’s “book paradise.” Its na
 Just a few metres from Hijiri Bridge is **Canal Cafe**, a venue with a terrace overlooking the tranquil artificial canal. Its menu combines classic European pastries with certified matcha tea. The interior, decorated with paper lamps and bamboo furniture, creates an intimate ambience ideal for resting after a long walk through the area.  
 
 <figure class="align-center">  
-  <img src="{{ '/assets/images/20260309/CanalCafe.webp' | relative_url }}" alt="Canal Cafe">  
+  <img src="{{ '/assets/images/2026/03/10/CanalCafe.webp' | relative_url }}" alt="Canal Cafe">  
   <figcaption class="align-right">Canal Cafe and its views</figcaption>  
 </figure>  
 

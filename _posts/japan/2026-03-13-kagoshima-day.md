@@ -2,12 +2,12 @@
 layout: single
 title: "Kagoshima and Sakurajima"
 excerpt: "Shrine, castle ruins, industrial museum and beach with views of the volcano"
-date: 2026-03-12 09:00:00 +0200
+date: 2026-03-13 09:00:00 +0200
 categories: [japan]
 tags: [kagoshima, kyushu, temple, museum, shrine]
 header:
-  teaser: /assets/images/20260312/Kagoshima.webp
-  overlay_image: /assets/images/20260312/Kagoshima.webp
+  teaser: /assets/images/2026/03/13/Kagoshima.webp
+  overlay_image: /assets/images/2026/03/13/Kagoshima.webp
   caption: "By Toecheese-jp"
   actions:
     - label: "More Info"
@@ -80,7 +80,7 @@ What remains today are stone walls, the moat and the Goromon gate, which was reb
 The site now houses the Reimeikan Museum, which displays Kagoshima’s history, but I didn’t enter because I had other sites on my list. I contented myself with strolling around the grounds and enjoying the feeling of being in a place where history weighs on every stone.
 
 <figure class="align-center">
-  <img src="{{ '/assets/images/20260312/Kagoshima.webp' | relative_url }}" alt="Kagoshima">
+  <img src="{{ '/assets/images/2026/03/13/Kagoshima.webp' | relative_url }}" alt="Kagoshima">
   <figcaption class="align-right">City of Kagoshima and Sakurajima</figcaption>
 </figure>
 

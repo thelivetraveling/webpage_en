@@ -3,12 +3,12 @@ layout: single
 published: false
 title: "From Tokyo to Fukuoka: Island Switch"
 excerpt: "Flight to Kyushu, futuristic shopping centre, historic shrine and river‑side yatai"
-date: 2026-03-11 09:00:00 +0200
+date: 2026-03-12 09:00:00 +0200
 categories: [japan]
 tags: [fukuoka, kyushu, temples, gastronomy, nightlife]
 header:
-  teaser: /assets/images/20260311/Fukuoka.webp
-  overlay_image: /assets/images/20260311/Fukuoka.webp
+  teaser: /assets/images/2026/03/12/Fukuoka.webp
+  overlay_image: /assets/images/2026/03/12/Fukuoka.webp
   caption: "By Nryate"
   actions:
     - label: "More Info"
@@ -71,7 +71,7 @@ Inside the complex are over 250 shops, restaurants, cinemas, a theatre and even 
 Walking through Canal City feels like being carried by its festive atmosphere. It’s not a conventional mall; it’s an area designed for strolling, entertainment and surprise. Escalators snake between levels, bridges cross the canal at several points, and benches invite you to sit and watch people come and go. It works just as well for shopping, grabbing a quick bite or simply passing time aimlessly.
 
 <figure class="align-center">
-  <img src="{{ '/assets/images/20260311/Fukuoka.webp' | relative_url }}" alt="Fukuoka">
+  <img src="{{ '/assets/images/2026/03/12/Fukuoka.webp' | relative_url }}" alt="Fukuoka">
   <figcaption class="align-right">Fukuoka coast from a drone</figcaption>
 </figure>
 
