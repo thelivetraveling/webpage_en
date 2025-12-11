@@ -64,6 +64,62 @@ Stopping here, only half an hour from Cádiz, was a brief break to stretch my le
 
 Arriving in Antequera at noon was like entering an oven. The inland heat in July is intense, but dry. Visiting the Dolmen of Menga is awe-inspiring; standing under those thousand-year-old stone slabs gives you goosebumps. Afterwards, getting lost in its steep streets towards the Alcazaba, with views of the *vega*, helped to understand why they call it "the heart of Andalusia." Its grandeur is serene and monumental.
 
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "TouristTrip",
+  "name": "From Cádiz to Granada",
+  "description": "A journey starting at La Caleta beach, crossing the Andalusian countryside, and culminating in Antequera and Granada.",
+  "touristType": "Adult",
+  "hasPart": [
+    {
+      "@type": "Place",
+      "name": "La Caleta Beach",
+      "description": "Cádiz's emblematic urban beach located between the castles of San Sebastián and Santa Catalina.",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 36.5319,
+        "longitude": -6.3057
+      },
+      "image": ""
+    },
+    {
+      "@type": "Place",
+      "name": "Plaza del Rey",
+      "description": "Central square in El Puerto de Santa María, featuring an ornamental fountain and historic buildings.",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 36.4766,
+        "longitude": -6.1967
+      },
+      "image": ""
+    },
+    {
+      "@type": "Place",
+      "name": "Antequera",
+      "description": "Millennial city with the Dolmen Archaeological Ensemble and Renaissance and Baroque heritage.",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 37.0523,
+        "longitude": -4.5732
+      },
+      "image": ""
+    },
+    {
+      "@type": "Place",
+      "name": "Granada",
+      "description": "Capital of the Nasrid Kingdom, famous for the Alhambra, historic neighborhoods, and diverse cultural heritage.",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 37.1823,
+        "longitude": -3.6017
+      },
+      "image": ""
+    }
+  ]
+}
+</script>
+
 {% if page.map_points %}
   {% include google-maps.html %}
 {% endif %}

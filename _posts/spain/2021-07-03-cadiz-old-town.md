@@ -55,6 +55,84 @@ Climbing its stairs mid-morning already foretold the July heat in Cádiz. The re
 
 ---
 
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "TouristTrip",
+  "name": "Cádiz on Foot",
+  "description": "Walking tour of Cádiz visiting towers, markets, cathedrals, and historic theaters",
+  "touristType": "Adult",
+  "hasPart": [
+    {
+      "@type": "Place",
+      "name": "Torre Tavira",
+      "description": "18th-century tower with strategic views and a camera obscura that allows observing the city",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 36.5322,
+        "longitude": -6.2985
+      },
+      "image": ""
+    },
+    {
+      "@type": "Place",
+      "name": "Mercado Central de Abastos",
+      "description": "Historic market where the gastronomic essence of Cádiz and local life can be experienced",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 36.5310,
+        "longitude": -6.2979
+      },
+      "image": ""
+    },
+    {
+      "@type": "Place",
+      "name": "Freiduria las Flores 1",
+      "description": "Famous fried fish shop offering typical Cádiz dishes and traditional tapas",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 36.5310,
+        "longitude": -6.2970
+      },
+      "image": ""
+    },
+    {
+      "@type": "Place",
+      "name": "Cádiz Cathedral",
+      "description": "Baroque and Neoclassical cathedral dominating the old town with its imposing dome",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 36.5291,
+        "longitude": -6.2952
+      },
+      "image": ""
+    },
+    {
+      "@type": "Place",
+      "name": "Roman Theater of Cádiz",
+      "description": "Remains of the oldest Roman theater in Hispania, witness to classical Cádiz",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 36.5285,
+        "longitude": -6.2936
+      },
+      "image": ""
+    },
+    {
+      "@type": "Place",
+      "name": "Gran Teatro Falla",
+      "description": "20th-century historic theater hosting performances and cultural events in Cádiz",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 36.5339,
+        "longitude": -6.3024
+      },
+      "image": ""
+    }
+  ]
+}
+</script>
+
 {% if page.map_points %}
   {% include google-maps.html %}
 {% endif %}
