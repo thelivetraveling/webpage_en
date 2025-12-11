@@ -68,9 +68,9 @@ Walking under the square's arcades was a relief from the heat. The atmosphere wa
 
 ---
 
-## **Museo de Cádiz: A Journey Through Time**
+## **Museum of Cádiz: A Journey Through Time**
 
-The **Museo de Cádiz**, located in Plaza de la Mina, occupies the building of the old Museo de Bellas Artes, built in 1838. Its collections are organized into three main sections: Archaeology, with Phoenician and Roman finds; Fine Arts, with a notable collection of Spanish Baroque painting; and Ethnology. Its star pieces are the Phoenician sarcophagi of a man and a woman.
+The **Museum of Cádiz**, located in Plaza de la Mina, occupies the building of the old Museo de Bellas Artes, built in 1838. Its collections are organized into three main sections: Archaeology, with Phoenician and Roman finds; Fine Arts, with a notable collection of Spanish Baroque painting; and Ethnology. Its star pieces are the Phoenician sarcophagi of a man and a woman.
 
 Entering the museum was like immersing oneself in the layers of Cádiz's history. The archaeology floor, cool and silent, is fascinating. Stopping in front of the 5th-century B.C. Phoenician sarcophagi, found in the city itself, evokes a strange feeling of connection with its earliest inhabitants. The painting rooms, with works by Zurbarán and Murillo, offer a sublime contrast of light and devotion.
 
@@ -78,7 +78,7 @@ Entering the museum was like immersing oneself in the layers of Cádiz's history
 
 ## **Monument to the Constitution of 1812: Tribute to La Pepa**
 
-The **Monument to the Cortes of 1812**, popularly known as the Monument to the Constitution of 1812 or "La Pepa," was erected in 1912 to commemorate the first centenary of the historic Spanish Constitution promulgated in Cádiz. The work of architect Modesto López Otero and sculptor Aniceto Marinas, it is Neoclassical in style and symbolizes the values of liberty, justice, and citizenship.
+The **Monument to the Courts of 1812**, popularly known as the Monument to the Constitution of 1812 or "La Pepa," was erected in 1912 to commemorate the first centenary of the historic Spanish Constitution promulgated in Cádiz. The work of architect Modesto López Otero and sculptor Aniceto Marinas, it is Neoclassical in style and symbolizes the values of liberty, justice, and citizenship.
 
 From afar, the monument dominates the square with its imposing semicircular colonnade and its tall central tower. As I approached, I could appreciate the details of the sculptures representing War, Peace, Agriculture, and Industry. Reading the names of the *doceañista* deputies inscribed on the hemicycle is an exercise in historical memory. It is a place that emanates solemnity and civic pride.
 

@@ -137,7 +137,7 @@ Climbing its stairs mid-morning already foretold the July heat in Cádiz. The re
   {% include google-maps.html %}
 {% endif %}
 
-## **Mercado Central de Abastos: The City's Pulse**
+## **Central Market of Abastos: The City's Pulse**
 
 Inaugurated in 1838 under the reign of Isabel II, the **Mercado Central** is the main food market of Cádiz and one of the oldest still active in Spain. It occupies the site of the former Convent of the Descalzos and its structure, with a central nave and four side aisles, is an example of 19th-century iron and glass architecture. It is the gastronomic heart of Cádiz.
 
@@ -158,9 +158,9 @@ The smell of frying guided me to the door. The line moved fast. Ordering a porti
 
 ---
 
-## **Catedral de Cádiz: The Golden House on the Sea**
+## **Cathedral of Cádiz: The Golden House on the Sea**
 
-The **Catedral de Cádiz**, known as "Santa Cruz sobre el Mar" or "Catedral Nueva," is a magnificent example of the transition between Baroque and Neoclassicism. Its construction lasted 116 years (1722-1838), which explains the mixture of styles. Its imposing domes covered with yellow tiles, which shine in the sun, and the crypt where composer Manuel de Falla rests stand out.
+The **Cathedral of Cádiz**, known as "Santa Cruz sobre el Mar" or "Catedral Nueva," is a magnificent example of the transition between Baroque and Neoclassicism. Its construction lasted 116 years (1722-1838), which explains the mixture of styles. Its imposing domes covered with yellow tiles, which shine in the sun, and the crypt where composer Manuel de Falla rests stand out.
 
 After lunch, the cathedral rose majestically at the end of the street. The interior is awe-inspiring due to its spaciousness and the light filtering through its stained glass. Climbing the Torre del Reloj for another perspective of the city was worth every step. In the crypt, the feeling of peace contrasted with the exterior bustle. It is a building that summarizes the history and character of Cádiz.
 
