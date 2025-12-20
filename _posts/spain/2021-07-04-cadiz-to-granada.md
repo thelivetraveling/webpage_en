@@ -5,30 +5,61 @@ excerpt: "A journey that begins on La Caleta beach, crosses the Andalusian count
 date: 2021-07-04 09:00:00 +0200
 categories: ["spain"]
 tags: ["beach", "antequera", "granada", "andalucia", "travel", "coast"]
+country: "ES"
+city: "Cádiz"
+language: "es"
 header:
-  teaser: "/assets/images/2021/07/04/PlazaDelRey.webp"
-  overlay_image: "/assets/images/2021/07/04/PlazaDelRey.webp"
+  teaser: /assets/images/2021/07/04/PlazaDelRey.webp
+  overlay_image: /assets/images/2021/07/04/PlazaDelRey.webp
+video:
+  id: "xaqADJfXk3U"
+  duration: "PT15M30S"
+images:
+  - id: "image1"
+    path: /assets/images/2021/07/04/PlazaDelRey.webp
+    alt: "La plaza del Rey"
+    license: "CC BY 4.0"
+  - id: "image2"
+    path: /assets/images/2021/07/04/PlayaDeLaCaleta.webp
+    alt: "Playa de la Caleta"
+    license: "CC BY 4.0"
 map_points:
   - name: "Playa de la Caleta"
     lat: 36.5319
     lng: -6.3057
-    type: "beach"
+    price_range: "0"
+    rating: 4.0
+    visit_duration: "PT02H00M"
+    type: "default"
     mode: "walking"
   - name: "Plaza del Rey"
     lat: 36.4766
     lng: -6.1967
+    price_range: "$$"
+    rating: 3.5
+    visit_duration: "PT45M"
     type: "square"
     mode: "walking"
   - name: "Antequera"
     lat: 37.0523
     lng: -4.5732
+    price_range: "$"
+    rating: 4.5
+    visit_duration: "PT01H45M"
     type: "default"
-    mode: "transit"
+    mode: "driving"
   - name: "Granada"
     lat: 37.1823
     lng: -3.6017
+    price_range: "0"
+    rating: 4.5
+    visit_duration: "PT01H15M"
     type: "default"
-    mode: "transit"
+    mode: "driving"
+faqs:
+  - question: "How many time we will need to visit Cádiz city center?"
+    answer: "I recommend at least a couple of days to visit the parks and their street quietly."
+---
 ---
 
 # **From Sea to Mountain: An Andalusian Route to Granada**

@@ -5,40 +5,72 @@ excerpt: "A stroll from Plaza San Antonio to Plaza España, exploring squares, h
 date: 2021-07-02 09:00:00 +0200
 categories: ["spain"]
 tags: ["cádiz", "museum", "history", "plaza", "architecture", "summer"]
+country: "ES"
+city: "Cádiz"
+language: "es"
 header:
-  teaser: "/assets/images/2021/07/02/PlazaSanAntonio.webp"
-  overlay_image: "/assets/images/2021/07/02/PlazaSanAntonio.webp"
+  teaser: /assets/images/2021/07/02/PlazaSanAntonio.webp
+  overlay_image: /assets/images/2021/07/02/PlazaSanAntonio.webp
+video:
+  id: "QZtJftZVPSY"
+  duration: "PT15M30S"
+images:
+  - id: "image1"
+    path: /assets/images/2021/07/02/PlazaSanAntonio.webp
+    alt: "La plaza central de Cádiz"
+    license: "CC BY 4.0"
 map_points:
   - name: "El armador Casa palacio"
     lat: 36.5345
     lng: -6.2983
+    price_range: "$$"
+    rating: 4.5
+    visit_duration: "PT48H"
     type: "hotel"
-    mode: "transit"
+    mode: "driving"
   - name: "Plaza San Antonio"
     lat: 36.5348
     lng: -6.2989
+    price_range: "0"
+    rating: 3.0
+    visit_duration: "PT20M"
     type: "square"
     mode: "walking"
   - name: "Plaza la Mina"
     lat: 36.5354
     lng: -6.2970
+    price_range: "$"
+    rating: 3.0
+    visit_duration: "PT20M"
     type: "square"
     mode: "walking"
   - name: "Museo de Cádiz"
     lat: 36.5352
     lng: -6.2962
+    price_range: "$"
+    rating: 3.5
+    visit_duration: "PT01H00M"
     type: "museum"
     mode: "walking"
   - name: "Monumento a la Constitución de 1812"
     lat: 36.5354
     lng: -6.2931
+    price_range: "0"
+    rating: 3.5
+    visit_duration: "PT15M"
     type: "monument"
     mode: "walking"
   - name: "Plaza España"
     lat: 36.5353
     lng: -6.2932
+    price_range: "0"
+    rating: 4.0
+    visit_duration: "PT45M"
     type: "square"
     mode: "walking"
+faqs:
+  - question: "How many time we will need to visit Cádiz city center?"
+    answer: "I recommend at least a couple of days to visit the parks and their street quietly."
 ---
 
 # **Historic Cádiz: A Stroll Through the Cradle of Liberty**
@@ -81,84 +113,6 @@ Entering the museum was like immersing oneself in the layers of Cádiz's history
 The **Monument to the Courts of 1812**, popularly known as the Monument to the Constitution of 1812 or "La Pepa," was erected in 1912 to commemorate the first centenary of the historic Spanish Constitution promulgated in Cádiz. The work of architect Modesto López Otero and sculptor Aniceto Marinas, it is Neoclassical in style and symbolizes the values of liberty, justice, and citizenship.
 
 From afar, the monument dominates the square with its imposing semicircular colonnade and its tall central tower. As I approached, I could appreciate the details of the sculptures representing War, Peace, Agriculture, and Industry. Reading the names of the *doceañista* deputies inscribed on the hemicycle is an exercise in historical memory. It is a place that emanates solemnity and civic pride.
-
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "TouristTrip",
-  "name": "Walk through Cádiz",
-  "description": "Walking tour of Cádiz visiting squares, museum, and emblematic historic monuments.",
-  "touristType": "Adult",
-  "hasPart": [
-    {
-      "@type": "Place",
-      "name": "El armador Casa palacio",
-      "description": "Built in the 18th century, it reflects Cádiz's manor architecture and historical commercial activity.",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 36.5345,
-        "longitude": -6.2983
-      },
-      "image": ""
-    },
-    {
-      "@type": "Place",
-      "name": "Plaza San Antonio",
-      "description": "Historic square with a welcoming atmosphere, surrounded by iconic buildings and traditional cafés.",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 36.5348,
-        "longitude": -6.2989
-      },
-      "image": ""
-    },
-    {
-      "@type": "Place",
-      "name": "Plaza la Mina",
-      "description": "19th-century open space combining history and daily life with gardens and monuments.",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 36.5354,
-        "longitude": -6.2970
-      },
-      "image": ""
-    },
-    {
-      "@type": "Place",
-      "name": "Museo de Cádiz",
-      "description": "Museum with archaeological and artistic collections narrating the history of Cádiz and its heritage.",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 36.5352,
-        "longitude": -6.2962
-      },
-      "image": ""
-    },
-    {
-      "@type": "Place",
-      "name": "Monument to the Constitution of 1812",
-      "description": "Commemorative monument celebrating the Cádiz Constitution, a symbol of Spanish liberalism.",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 36.5354,
-        "longitude": -6.2931
-      },
-      "image": ""
-    },
-    {
-      "@type": "Place",
-      "name": "Plaza España",
-      "description": "Representative square in the center of Cádiz, meeting point with elegant and lively architecture.",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 36.5353,
-        "longitude": -6.2932
-      },
-      "image": ""
-    }
-  ]
-}
-</script>
 
 {% if page.map_points %}
   {% include google-maps.html %}

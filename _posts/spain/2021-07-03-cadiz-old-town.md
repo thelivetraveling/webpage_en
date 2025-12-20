@@ -4,41 +4,77 @@ title: "Cádiz in a Day"
 excerpt: "Tour of Cádiz: from the Torre Tavira and its camera obscura to the Roman Theatre, passing through the bustling market and the cathedral."
 date: 2021-07-03 09:00:00 +0200
 categories: ["spain"]
-tags: ["cadiz", "cathedral", "market", "tower", "theatre", "pescaíto"]
+tags: ["cádiz", "cathedral", "market", "tower", "theatre", "pescaíto"]
+country: "ES"
+city: "Cádiz"
+language: "es"
 header:
-  teaser: "/assets/images/2021/07/03/Catedral.webp"
-  overlay_image: "/assets/images/2021/07/03/Catedral.webp"
+  teaser: /assets/images/2021/07/03/Catedral.webp
+  overlay_image: /assets/images/2021/07/03/Catedral.webp
+video:
+  id: "jw4d5eFk7jo"
+  duration: "PT15M30S"
+images:
+  - id: "image1"
+    path: /assets/images/2021/07/03/Catedral.webp
+    alt: "Catedral de Cádiz"
+    license: "CC BY 4.0"
+  - id: "image2"
+    path: /assets/images/2021/07/03/FreiduriaLasFlores.webp
+    alt: "Freiduría Las Flores"
+    license: "CC BY 4.0"
 map_points:
   - name: "Torre Tavira"
     lat: 36.5322
     lng: -6.2985
+    price_range: "0"
+    rating: 3.5
+    visit_duration: "PT20M"
     type: "default"
     mode: "walking"
   - name: "Mercado Central de Abastos"
     lat: 36.5310
     lng: -6.2979
+    price_range: "$"
+    rating: 4.0
+    visit_duration: "PT50M"
     type: "shop"
     mode: "walking"
-  - name: "Freiduria las Flores 1"
+  - name: "Freiduría las Flores 1"
     lat: 36.5310
     lng: -6.2970
+    price_range: "$$"
+    rating: 4.0
+    visit_duration: "PT50M"
     type: "restaurant"
     mode: "walking"
   - name: "Catedral de Cádiz"
     lat: 36.5291
     lng: -6.2952
+    price_range: "0"
+    rating: 4.5
+    visit_duration: "PT30M"
     type: "temple"
     mode: "walking"
   - name: "Teatro Romano de Cádiz"
     lat: 36.5285
     lng: -6.2936
+    price_range: "$"
+    rating: 4.0
+    visit_duration: "PT50M"
     type: "monument"
     mode: "walking"
   - name: "Gran Teatro Falla"
     lat: 36.5339
     lng: -6.3024
+    price_range: "$"
+    rating: 3.5
+    visit_duration: "PT45M"
     type: "default"
     mode: "walking"
+faqs:
+  - question: "How many time we will need to visit Cádiz city center?"
+    answer: "I recommend at least a couple of days to visit the parks and their street quietly."
 ---
 
 # **From the Tower to the Theatre: The Essence of Cádiz in One Stroll**
@@ -54,84 +90,6 @@ A tour that ascends to the Tavira watchtower, immerses itself in the bustle of t
 Climbing its stairs mid-morning already foretold the July heat in Cádiz. The reward, however, was absolute: a 360-degree view over the sea of white rooftops, yellow domes, and the infinite blue of the Atlantic. The camera obscura experience, with the guide pointing out the city's rooftops like a living map, is unique. From here, Cádiz is understood as the island it is.
 
 ---
-
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "TouristTrip",
-  "name": "Cádiz on Foot",
-  "description": "Walking tour of Cádiz visiting towers, markets, cathedrals, and historic theaters",
-  "touristType": "Adult",
-  "hasPart": [
-    {
-      "@type": "Place",
-      "name": "Torre Tavira",
-      "description": "18th-century tower with strategic views and a camera obscura that allows observing the city",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 36.5322,
-        "longitude": -6.2985
-      },
-      "image": ""
-    },
-    {
-      "@type": "Place",
-      "name": "Mercado Central de Abastos",
-      "description": "Historic market where the gastronomic essence of Cádiz and local life can be experienced",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 36.5310,
-        "longitude": -6.2979
-      },
-      "image": ""
-    },
-    {
-      "@type": "Place",
-      "name": "Freiduria las Flores 1",
-      "description": "Famous fried fish shop offering typical Cádiz dishes and traditional tapas",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 36.5310,
-        "longitude": -6.2970
-      },
-      "image": ""
-    },
-    {
-      "@type": "Place",
-      "name": "Cádiz Cathedral",
-      "description": "Baroque and Neoclassical cathedral dominating the old town with its imposing dome",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 36.5291,
-        "longitude": -6.2952
-      },
-      "image": ""
-    },
-    {
-      "@type": "Place",
-      "name": "Roman Theater of Cádiz",
-      "description": "Remains of the oldest Roman theater in Hispania, witness to classical Cádiz",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 36.5285,
-        "longitude": -6.2936
-      },
-      "image": ""
-    },
-    {
-      "@type": "Place",
-      "name": "Gran Teatro Falla",
-      "description": "20th-century historic theater hosting performances and cultural events in Cádiz",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 36.5339,
-        "longitude": -6.3024
-      },
-      "image": ""
-    }
-  ]
-}
-</script>
 
 {% if page.map_points %}
   {% include google-maps.html %}
