@@ -29,7 +29,7 @@ map_points:
   - name: "Playa de la Caleta"
     lat: 36.5319
     lng: -6.3057
-    price_range: "0"
+    price_range: 
     type: "default"
     mode: "walking"
   - name: "Plaza del Rey"
@@ -47,7 +47,7 @@ map_points:
   - name: "Granada"
     lat: 37.1823
     lng: -3.6017
-    price_range: "0"
+    price_range: 
     type: "default"
     mode: "driving"
 faqs:
